@@ -1,6 +1,6 @@
 ![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D03AQHnKb0RzXRslw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1696327590383%3Fe%3D2147483647%26v%3Dbeta%26t%3Ds4Y9fRkuVZzR8ciTwnLgVWxu2QVXYHzu2Sj7crYOr2U&tbnid=pQlJdRuEmIFueM&vet=12ahUKEwiA87K1qN2DAxWEg_0HHZuZCrMQMygAegQIARA4..i&imgrefurl=https%3A%2F%2Faz.linkedin.com%2Fin%2Freshad-rustemov-625930272&docid=qPVzUuWv1xfoHM&w=800&h=800&q=Reshad%20Rustemov&client=safari&ved=2ahUKEwiA87K1qN2DAxWEg_0HHZuZCrMQMygAegQIARA4)
 <h1 align="center">Hi 👋, I'm Res4ad0</h1>
-<h3 align="center">Cyber</h3>
+<h3 align="center">Jr.Pentester</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
