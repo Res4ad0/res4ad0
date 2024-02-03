@@ -1,4 +1,4 @@
-![Alt Text]([https://ibb.co/pPKWr1m](https://ibb.co/pPKWr1m))
+
 <h1 align="center">Hi 👋, I'm Res4ad0</h1>
 <h3 align="center">Jr.Pentester</h3>
 
